@@ -1,0 +1,5 @@
+float c;
+int a = 10;
+int b = 38;
+c = Convert.ToSingle(31 - 5 * a) / b;
+Console.WriteLine(c);
